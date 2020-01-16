@@ -5,9 +5,7 @@ public class Movie {
     private String director;
 
     public Movie(String title, MovieGenre movieGenre, int price, String director) {
-        this.title = title;
-        this.movieGenre = movieGenre;
-        this.price = price;
+        this (title, movieGenre, price);
         this.director = director;
     }
 
@@ -43,23 +41,15 @@ public class Movie {
         this.price = price;
     }
 
-  /*  public static void printAllMovies(Movie[] myMovie) {
-
-        for (int i = 0; i < myMovie.length; i++) {
-            Movie movie = myMovie[i];
-            // printMovieDetails(book);
-            //movie.printMovieDetails();
-        }
-    }
-*/
     public void printMovieDetails() {
 
-        System.out.println("The title of this movie is: " + title);
-        System.out.println("The genre of this movie is: " + movieGenre);
-        System.out.println("The price of this movie is: " + price + "\n");
+        System.out.println("The title of this movie is: " + this.title);
+        System.out.println("The genre of this movie is: " + this.movieGenre);
+        System.out.println("The price of this movie is: " + this.price);
 
-        if (director != null)
-        System.out.println("The genre of this movie is: " + director);
-
+        if (director != null) {
+            System.out.println("The director of this movie is: " + director);
+        }
+        System.out.println("");
     }
 }

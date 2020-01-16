@@ -35,6 +35,17 @@ public class Book {
         this.price = price;
     }
 
+    public void printBookDetails() {
+
+        System.out.println("The title of this book is: " + this.title);
+        System.out.println("The author of this book is: " + this.author);
+        System.out.println("The price of this book is: " + this.price + "\n");
+    }
+
+}
+
+
+
    /* public static void printAllBooks(Book[] myBooks){
 
         for (int i = 0; i < myBooks.length; i++) {
@@ -44,17 +55,5 @@ public class Book {
         }
 
     }*/
-    public void printBookDetails() {
-
-        System.out.println("The title of this book is: " + this.title);
-        System.out.println("The author of this book is: " + this.title);
-        System.out.println("The price of this book is: " + this.title + "\n");
-    }
-
-}
-
-
-
-
 
 
