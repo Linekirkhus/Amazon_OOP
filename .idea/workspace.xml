@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab6b1810-5984-4d55-8840-e32b8bf46eec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WTMd8BtyquuYowT7bBPGmM2ses" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="Main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Book" />
+      <module name="Amazon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Amazon" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Book" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Book" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab6b1810-5984-4d55-8840-e32b8bf46eec" name="Default Changelist" comment="" />
+      <created>1579169215648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579169215648</updated>
+      <workItem from="1579169220460" duration="17014000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="162" y="89" key="#com.intellij.ide.util.MemberChooser" timestamp="1579185779161">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="162" y="89" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1579185779161" />
+    <state x="172" y="0" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1579180606263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="172" y="0" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1536.824@0.0.1536.824" timestamp="1579180606262" />
+    <state x="423" y="0" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1579178121809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="423" y="0" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1536.824@0.0.1536.824" timestamp="1579178121809" />
+    <state width="860" height="38" key="GridCell.Tab.0.bottom" timestamp="1579188490125">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="860" height="38" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579188490125" />
+    <state width="860" height="38" key="GridCell.Tab.0.center" timestamp="1579188490125">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="860" height="38" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579188490125" />
+    <state width="860" height="38" key="GridCell.Tab.0.left" timestamp="1579188490125">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="860" height="38" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579188490125" />
+    <state width="860" height="38" key="GridCell.Tab.0.right" timestamp="1579188490125">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="860" height="38" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579188490125" />
+    <state x="15" y="0" key="SettingsEditor" timestamp="1579174534471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="15" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579174534471" />
+    <state x="243" y="38" key="refactoring.ChangeSignatureDialog" timestamp="1579172648300">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="243" y="38" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1579172648300" />
+  </component>
+</project>
